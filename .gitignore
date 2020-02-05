@@ -2,3 +2,6 @@ Library/
 Temp/
 Logs/
 ProjectSettings/ProjectVersion.txt
+.vs/
+*.csproj
+*.sln

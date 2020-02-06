@@ -30,5 +30,12 @@ namespace Lean.Touch
 				clone.gameObject.SetActive(true);
 			}
 		}
+
+		public void SpawnAt(LeanFinger finger)
+		{
+			var screenToWorld = Camera.main.ScreenToWorldPoint(new Vector3(finger.ScreenPosition.x, finger.ScreenPosition.y, 10));
+			Spawn(screenToWorld);
+
+		}
 	}
 }

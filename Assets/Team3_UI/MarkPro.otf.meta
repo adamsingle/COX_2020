@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d3a034160088a9c4ab71ee346388dc1d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mark Pro
+  fontNames:
+  - Mark Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8d5120e5c9d07404591e14bb789e21ae, type: 3}
+  - {fileID: 12800000, guid: 3ef10c26fdec07446ad1977256122da4, type: 3}
+  - {fileID: 12800000, guid: 1c903c3b036bef94e920bbecfe68e9c3, type: 3}
+  - {fileID: 12800000, guid: 8c67661c3706ba04491b7ce2cb5ee0e2, type: 3}
+  - {fileID: 12800000, guid: 4247f57e05a7c724b9e02fb604e2e75c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
